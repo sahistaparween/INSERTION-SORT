@@ -48,3 +48,16 @@ It occurs when the elements of an array are in jumbled order (neither ascending 
 # Space Complexity
 
 Space complexity is O(1) because an extra variable key is used.
+
+
+# Insertion Sort Applications
+The insertion sort is used when:
+The array is has a small number of elements
+There are only a few elements left to be sorted
+
+
+
+# LINKS FOR REFERENCE
+1.JENNY'S LECTURE
+https://www.youtube.com/watch?v=yCxV0kBpA6M
+
