@@ -43,3 +43,8 @@ When the array is already sorted, the outer loop runs for n number of times wher
 
 It occurs when the elements of an array are in jumbled order (neither ascending nor descending).
 
+
+
+# Space Complexity
+
+Space complexity is O(1) because an extra variable key is used.
