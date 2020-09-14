@@ -57,7 +57,7 @@ There are only a few elements left to be sorted
 
 
 
-# LINKS FOR REFERENCE
+# LINK FOR REFERENCE
 1.JENNY'S LECTURE
 https://www.youtube.com/watch?v=yCxV0kBpA6M
 
